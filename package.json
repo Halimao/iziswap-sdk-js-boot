@@ -1,6 +1,6 @@
 {
   "name": "iziswap-sdk-js-boot",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An quick booter for iziswap-sdk-js",
   "main": "index.js",
   "scripts": {
